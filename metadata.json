@@ -1,0 +1,6 @@
+{
+  "name": "Jov1chAI",
+  "description": "Futuristic cyberpunk AI Hacker Assistant console featuring interactive command shell, system file explorer, Google search engine, image synthesis studio, and Room logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
